@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NativeIsPrime</string>
+    <string name="enter_number">Enter number here</string>
+    <string name="isprime_button_label">Check Prime</string>
+    <string name="result">Result : %1$s</string>
+    <string name="info_text">Enter number and press button to check Prime</string>
+</resources>
